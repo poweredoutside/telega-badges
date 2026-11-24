@@ -1,6 +1,12 @@
 {
     "badges": {
+        "1931431571": "developer",
         "5893516768": "developer"
+    },
+    "nextNumber": 3,
+    "numbers": {
+        "1931431571": 2,
+        "5893516768": 1
     },
     "version": 1
 }
